@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+
+body {
+  margin: 253px;
+}
+.page-holder {
+  min-height: 100vh;
+}
+
+.bg-cover {
+  background-size: cover !important;
+  background: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)), url("./images/bg2.jpg");
+}
